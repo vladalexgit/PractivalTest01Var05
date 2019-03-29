@@ -17,7 +17,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    static int theScore = 120;
+    static int theScore = 0;
     private IntentFilter intentFilter = new IntentFilter();
 
     @Override

@@ -25,5 +25,4 @@ public class PracticalTest01Var05Service extends Service {
     public void onDestroy() {
         processingThread.stopThread();
     }
-
 }
